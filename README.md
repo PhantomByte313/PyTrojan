@@ -16,7 +16,7 @@ To install and use **PyTrojan**, follow the steps below:
 
 1. Clone the repository to your system:
    ```bash
-   git clone https://github.com/username/PyTrojan.git
+   git clone https://github.com/PhantomByte313/PyTrojan.git
    cd PyTrojan
 
 2. Run the tool with Python:
